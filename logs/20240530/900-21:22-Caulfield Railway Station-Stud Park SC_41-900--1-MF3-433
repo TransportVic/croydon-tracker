@@ -1,0 +1,15 @@
+{
+  "runID": "41-900--1-MF3-433",
+  "origin": "Caulfield Railway Station/Sir John Monash Dr",
+  "destination": "Stud Park SC/Stud Rd",
+  "departureTime": "2024-05-30T11:22:00Z",
+  "positions": [
+    {
+      "lat": -37.9181283333333,
+      "lon": 145.235173333333,
+      "bearing": 12,
+      "ts": "2024-05-30T12:13:20Z",
+      "exp": "2024-05-30T12:15:30.8821171Z"
+    }
+  ]
+}
