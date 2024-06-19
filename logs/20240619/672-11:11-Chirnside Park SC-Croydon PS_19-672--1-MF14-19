@@ -1,0 +1,15 @@
+{
+  "runID": "19-672--1-MF14-19",
+  "origin": "Chirnside Park SC/Maroondah Hwy",
+  "destination": "Croydon PS/Kent Ave",
+  "departureTime": "2024-06-19T01:11:00Z",
+  "positions": [
+    {
+      "lat": -37.8312054067303,
+      "lon": 145.243548155266,
+      "bearing": 33,
+      "ts": "2024-06-19T00:14:12Z",
+      "exp": "2024-06-19T00:16:27.1941614Z"
+    }
+  ]
+}
