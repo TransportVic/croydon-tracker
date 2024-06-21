@@ -1286,6 +1286,7 @@
     "671-16:31-Croydon PS-Chirnside Park SC_29-671--1-MF15-29",
     "671-16:44-Chirnside Park SC-Croydon PS_19-671--1-MF13-26",
     "671-17:01-Croydon PS-Chirnside Park SC_29-671--1-MF15-31",
+    "671-17:14-Chirnside Park SC-Croydon PS_19-671--1-MF13-28",
     "672-05:59-Chirnside Park SC-Croydon PS_19-672--1-MF13-1",
     "672-06:25-Croydon PS-Chirnside Park SC_19-672--1-MF13-31",
     "672-06:29-Chirnside Park SC-Croydon PS_29-672--1-MF15-8",
@@ -1316,7 +1317,9 @@
     "672-15:59-Croydon PS-Chirnside Park SC_21-672--1-MF5-14",
     "672-16:26-Chirnside Park SC-Croydon PS_21-672--1-MF5-15",
     "672-16:31-Croydon PS-Chirnside Park SC_19-672--1-MF13-47",
+    "672-16:56-Chirnside Park SC-Croydon PS_29-672--1-MF15-16",
     "672-17:01-Croydon PS-Chirnside Park SC_21-672--1-MF5-19",
+    "672-17:26-Chirnside Park SC-Croydon PS_29-672--1-MF15-18",
     "Traralgon-07:45-Seymour Railway Station-Seymour Railway Station_78-SY3--1-MF5-31972810",
     "Traralgon-08:00-Labuan St-Seymour Railway Station_78-SY3--1-MF5-31972710",
     "Traralgon-08:07-Churchill SC-Traralgon Plaza SC_65-L03--1-MF2-23084650",
@@ -1330,6 +1333,7 @@
     "Traralgon-15:30-Seymour Railway Station-Crete St_78-SY3--1-MF5-31973150",
     "Traralgon-15:30-Seymour Railway Station-Seymour Railway Station_78-SY3--1-MF5-31973010",
     "Traralgon-16:07-Churchill SC-Traralgon Plaza SC_66-L03--1-MF6-23085050",
-    "Traralgon-16:30-Bridges Barracks-Seymour Railway Station_78-SY3--1-MF5-33001050"
+    "Traralgon-16:30-Bridges Barracks-Seymour Railway Station_78-SY3--1-MF5-33001050",
+    "Traralgon-17:20-Seymour Railway Station-Seymour Railway Station_78-SY3--1-MF5-33001250"
   ]
 }
