@@ -1,0 +1,22 @@
+{
+  "runID": "78-SY3--1-Sat4-34195860",
+  "origin": "King's Park/Tallarook St",
+  "destination": "Seymour Railway Station/Station St",
+  "departureTime": "2024-07-05T23:57:00Z",
+  "positions": [
+    {
+      "lat": -37.02001,
+      "lon": 145.146275,
+      "bearing": 20,
+      "ts": "2024-07-05T23:55:36Z",
+      "exp": "2024-07-05T23:57:51.7759061Z"
+    },
+    {
+      "lat": -37.0186066666667,
+      "lon": 145.145128333333,
+      "bearing": 253,
+      "ts": "2024-07-05T23:56:16Z",
+      "exp": "2024-07-05T23:58:25.8759051Z"
+    }
+  ]
+}
