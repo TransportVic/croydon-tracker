@@ -3612,6 +3612,8 @@
     "671-07:32-Chirnside Park SC-Croydon PS_19-671--1-MF5-4",
     "671-07:43-Croydon PS-Chirnside Park SC_19-671--1-MF5-42",
     "671-08:02-Chirnside Park SC-Croydon PS_19-671--1-MF5-5",
+    "671-08:13-Croydon PS-Chirnside Park SC_29-671--1-MF7-20",
+    "671-08:34-Chirnside Park SC-Croydon PS_29-671--1-MF7-11",
     "671-09:01-Chirnside Park SC-Croydon PS_19-671--1-MF5-12",
     "672-05:59-Chirnside Park SC-Croydon PS_19-672--1-MF5-1",
     "672-06:25-Croydon PS-Chirnside Park SC_19-672--1-MF5-31",
@@ -3631,9 +3633,11 @@
     "Morwell-07:35-Churchill SC-Morwell Bus Interchange_65-L02--1-MF2-23081410",
     "Morwell-07:45-Morwell Bus Interchange-Churchill SC_65-L02--1-MF2-23083110",
     "Morwell-08:25-Seymour Railway Station-Brook St_78-SY2--1-MF1-1442010",
+    "Morwell-08:35-Churchill SC-Morwell Bus Interchange_65-L02--1-MF2-23081510",
     "Traralgon-06:50-Traralgon Plaza SC-Churchill SC_65-L03--1-MF1-23085210",
     "Traralgon-07:45-Seymour Railway Station-Seymour Railway Station_78-SY3--1-MF2-1663811",
     "Traralgon-08:00-Labuan St-Seymour Railway Station_78-SY3--1-MF2-1663812",
-    "Traralgon-08:07-Churchill SC-Traralgon Plaza SC_65-L03--1-MF1-23084610"
+    "Traralgon-08:07-Churchill SC-Traralgon Plaza SC_65-L03--1-MF1-23084610",
+    "Traralgon-09:00-Seymour Railway Station-Seymour Railway Station_78-SY3--1-MF2-1520161"
   ]
 }
