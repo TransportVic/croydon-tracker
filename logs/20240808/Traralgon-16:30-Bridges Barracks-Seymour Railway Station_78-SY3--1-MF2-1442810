@@ -1,0 +1,22 @@
+{
+  "runID": "78-SY3--1-MF2-1442810",
+  "origin": "Bridges Barracks/Morobe Rd",
+  "destination": "Seymour Railway Station/Station St",
+  "departureTime": "2024-08-08T06:30:00Z",
+  "positions": [
+    {
+      "lat": -36.9862433333333,
+      "lon": 145.035398333333,
+      "bearing": 20,
+      "ts": "2024-08-08T06:28:55.631027Z",
+      "exp": "2024-08-08T06:31:01.1754032Z"
+    },
+    {
+      "lat": -36.9853433333333,
+      "lon": 145.036136666667,
+      "bearing": 171,
+      "ts": "2024-08-08T06:29:14Z",
+      "exp": "2024-08-08T06:31:30.9775308Z"
+    }
+  ]
+}
