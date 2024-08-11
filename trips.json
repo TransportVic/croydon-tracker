@@ -3979,6 +3979,7 @@
     "671-09:01-Chirnside Park SC-Croydon PS_19-671--1-MF6-13",
     "671-09:05-Croydon PS-Chirnside Park SC_29-671--1-MF8-23",
     "671-09:56-Chirnside Park SC-Croydon PS_19-671--1-MF6-15",
+    "671-10:01-Croydon PS-Chirnside Park SC_29-671--1-MF8-25",
     "672-05:59-Chirnside Park SC-Croydon PS_19-672--1-MF6-10",
     "672-06:25-Croydon PS-Chirnside Park SC_19-672--1-MF6-32",
     "672-06:29-Chirnside Park SC-Croydon PS_29-672--1-MF8-9",
@@ -3992,6 +3993,7 @@
     "672-08:52-Croydon PS-Chirnside Park SC_19-672--1-MF6-38",
     "672-09:11-Chirnside Park SC-Croydon PS_19-672--1-MF6-15",
     "672-09:27-Croydon PS-Chirnside Park SC_21-672--1-MF10-17",
+    "672-10:11-Chirnside Park SC-Croydon PS_19-672--1-MF6-17",
     "Morwell-05:50-Seymour Railway Station-Seymour Railway Station_78-SY2--1-MF1-1442110",
     "Morwell-06:30-Seymour Railway Station-Seymour Railway Station_78-SY2--1-MF1-1444110",
     "Morwell-06:35-Churchill SC-Morwell Bus Interchange_65-L02--1-MF2-23081310",
@@ -4004,11 +4006,13 @@
     "Morwell-08:45-Morwell Bus Interchange-Churchill SC_65-L02--1-MF2-23083210",
     "Morwell-09:35-Churchill SC-Morwell Bus Interchange_65-L02--1-MF2-23081610",
     "Morwell-09:45-Morwell Bus Interchange-Churchill SC_65-L02--1-MF2-23083310",
+    "Morwell-10:05-Seymour Railway Station-Seymour Railway Station_78-SY2--1-MF1-1443310",
     "Traralgon-06:50-Traralgon Plaza SC-Churchill SC_65-L03--1-MF1-23085210",
     "Traralgon-07:45-Seymour Railway Station-Seymour Railway Station_78-SY3--1-MF2-1663811",
     "Traralgon-08:00-Labuan St-Seymour Railway Station_78-SY3--1-MF2-1663812",
     "Traralgon-08:07-Churchill SC-Traralgon Plaza SC_65-L03--1-MF1-23084610",
     "Traralgon-08:50-Traralgon Plaza SC-Churchill SC_65-L03--1-MF1-23085310",
-    "Traralgon-09:00-Seymour Railway Station-Seymour Railway Station_78-SY3--1-MF2-1520161"
+    "Traralgon-09:00-Seymour Railway Station-Seymour Railway Station_78-SY3--1-MF2-1520161",
+    "Traralgon-10:07-Churchill SC-Traralgon Plaza SC_65-L03--1-MF1-23084710"
   ]
 }
