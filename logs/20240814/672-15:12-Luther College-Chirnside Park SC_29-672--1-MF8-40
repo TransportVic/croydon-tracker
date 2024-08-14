@@ -1,0 +1,15 @@
+{
+  "runID": "29-672--1-MF8-40",
+  "origin": "Luther College/Plymouth Rd",
+  "destination": "Chirnside Park SC/Maroondah Hwy",
+  "departureTime": "2024-08-14T05:12:00Z",
+  "positions": [
+    {
+      "lat": -37.75042,
+      "lon": 145.352611666667,
+      "bearing": 128,
+      "ts": "2024-08-14T04:27:30.740482Z",
+      "exp": "2024-08-14T04:29:44.2749809Z"
+    }
+  ]
+}
