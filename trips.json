@@ -4533,6 +4533,8 @@
     "671-11:01-Croydon PS-Chirnside Park SC_29-671--1-MF7-7",
     "671-11:56-Chirnside Park SC-Croydon PS_21-671--1-MF9-10",
     "671-12:01-Croydon PS-Chirnside Park SC_29-671--1-MF7-27",
+    "671-12:58-Chirnside Park SC-Croydon PS_29-671--1-MF7-13",
+    "671-13:01-Croydon PS-Chirnside Park SC_19-671--1-MF5-44",
     "672-05:59-Chirnside Park SC-Croydon PS_19-672--1-MF5-1",
     "672-06:25-Croydon PS-Chirnside Park SC_19-672--1-MF5-31",
     "672-06:29-Chirnside Park SC-Croydon PS_29-672--1-MF7-8",
@@ -4563,11 +4565,13 @@
     "Morwell-11:35-Churchill SC-Morwell Bus Interchange_64-L02--1-MF4-23081850",
     "Morwell-11:45-Morwell Bus Interchange-Churchill SC_65-L02--1-MF1-23083550",
     "Morwell-12:35-Churchill SC-Morwell Bus Interchange_65-L02--1-MF1-23081950",
+    "Morwell-12:45-Morwell Bus Interchange-Churchill SC_65-L02--1-MF1-23083650",
     "Traralgon-06:50-Traralgon Plaza SC-Churchill SC_65-L03--1-MF2-23085250",
     "Traralgon-08:07-Churchill SC-Traralgon Plaza SC_65-L03--1-MF2-23084650",
     "Traralgon-08:50-Traralgon Plaza SC-Churchill SC_65-L03--1-MF2-23085350",
     "Traralgon-10:07-Churchill SC-Traralgon Plaza SC_65-L03--1-MF2-23084750",
     "Traralgon-10:50-Traralgon Plaza SC-Churchill SC_66-L03--1-MF6-23085450",
-    "Traralgon-12:07-Churchill SC-Traralgon Plaza SC_66-L03--1-MF6-23084850"
+    "Traralgon-12:07-Churchill SC-Traralgon Plaza SC_66-L03--1-MF6-23084850",
+    "Traralgon-12:50-Traralgon Plaza SC-Churchill SC_66-L03--1-MF6-23085550"
   ]
 }
