@@ -4542,6 +4542,8 @@
     "671-15:46-Chirnside Park SC-Croydon PS_19-671--1-MF5-22",
     "671-15:56-Croydon PS-Chirnside Park SC_22-671--1-MF3-12",
     "671-16:14-Chirnside Park SC-Croydon PS_19-671--1-MF5-24",
+    "671-16:31-Croydon PS-Chirnside Park SC_29-671--1-MF7-29",
+    "671-16:44-Chirnside Park SC-Croydon PS_19-671--1-MF5-26",
     "672-05:59-Chirnside Park SC-Croydon PS_19-672--1-MF5-1",
     "672-06:25-Croydon PS-Chirnside Park SC_19-672--1-MF5-31",
     "672-06:29-Chirnside Park SC-Croydon PS_29-672--1-MF7-8",
@@ -4569,6 +4571,7 @@
     "672-15:58-Chirnside Park SC-Croydon PS_19-672--1-MF5-24",
     "672-15:59-Croydon PS-Chirnside Park SC_21-672--1-MF9-14",
     "672-16:26-Chirnside Park SC-Croydon PS_21-672--1-MF9-15",
+    "672-16:31-Croydon PS-Chirnside Park SC_19-672--1-MF5-47",
     "Morwell-06:35-Churchill SC-Morwell Bus Interchange_65-L02--1-MF1-23081350",
     "Morwell-06:45-Morwell Bus Interchange-Churchill SC_65-L02--1-MF1-23083050",
     "Morwell-07:35-Churchill SC-Morwell Bus Interchange_65-L02--1-MF1-23081450",
@@ -4589,6 +4592,8 @@
     "Morwell-14:45-Morwell Bus Interchange-Churchill SC_66-L02--1-MF5-23083850",
     "Morwell-15:35-Churchill SC-Morwell Bus Interchange_66-L02--1-MF5-23082250",
     "Morwell-15:45-Morwell Bus Interchange-Churchill SC_65-L02--1-MF1-23083950",
+    "Morwell-16:35-Churchill SC-Morwell Bus Interchange_65-L02--1-MF1-23082350",
+    "Morwell-16:45-Morwell Bus Interchange-Churchill SC_66-L02--1-MF5-23084050",
     "Traralgon-06:50-Traralgon Plaza SC-Churchill SC_65-L03--1-MF2-23085250",
     "Traralgon-08:07-Churchill SC-Traralgon Plaza SC_65-L03--1-MF2-23084650",
     "Traralgon-08:50-Traralgon Plaza SC-Churchill SC_65-L03--1-MF2-23085350",
@@ -4598,6 +4603,7 @@
     "Traralgon-12:50-Traralgon Plaza SC-Churchill SC_66-L03--1-MF6-23085550",
     "Traralgon-14:07-Churchill SC-Traralgon Plaza SC_66-L03--1-MF6-23084950",
     "Traralgon-14:50-Traralgon Plaza SC-Churchill SC_66-L03--1-MF6-23085650",
-    "Traralgon-16:07-Churchill SC-Traralgon Plaza SC_66-L03--1-MF6-23085050"
+    "Traralgon-16:07-Churchill SC-Traralgon Plaza SC_66-L03--1-MF6-23085050",
+    "Traralgon-16:50-Traralgon Plaza SC-Churchill SC_66-L03--1-MF6-23085750"
   ]
 }
