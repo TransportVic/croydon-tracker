@@ -4640,6 +4640,7 @@
     "671-09:08-Croydon PS-Chirnside Park SC_29-671--1-Sat4-15",
     "671-09:45-Chirnside Park SC-Croydon PS_29-671--1-Sat4-2",
     "671-10:08-Croydon PS-Chirnside Park SC_29-671--1-Sat4-16",
+    "671-10:45-Chirnside Park SC-Croydon PS_29-671--1-Sat4-3",
     "672-08:26-Chirnside Park SC-Croydon PS_29-672--1-Sat4-1",
     "672-09:08-Croydon PS-Chirnside Park SC_21-672--1-Sat5-1",
     "672-09:28-Chirnside Park SC-Croydon PS_29-672--1-Sat4-2",
@@ -4655,6 +4656,7 @@
     "Morwell-09:40-Morwell Bus Interchange-Churchill SC_65-L02--1-Sat1-23194260",
     "Morwell-10:30-Churchill SC-Morwell Bus Interchange_65-L02--1-Sat1-23193060",
     "Traralgon-08:50-Traralgon Plaza SC-Churchill SC_66-L03--1-Sat3-23195660",
-    "Traralgon-10:07-Churchill SC-Traralgon Plaza SC_66-L03--1-Sat3-23195160"
+    "Traralgon-10:07-Churchill SC-Traralgon Plaza SC_66-L03--1-Sat3-23195160",
+    "Traralgon-10:50-Traralgon Plaza SC-Churchill SC_66-L03--1-Sat3-23195760"
   ]
 }
