@@ -1,0 +1,15 @@
+{
+  "runID": "66-L02--1-MF6-23084310",
+  "origin": "McDonald St/Princes Dr",
+  "destination": "Churchill SC/Georgina Pl",
+  "departureTime": "2024-09-03T10:05:00Z",
+  "positions": [
+    {
+      "lat": -38.2386166666667,
+      "lon": 146.40011,
+      "bearing": 186,
+      "ts": "2024-09-03T10:01:29Z",
+      "exp": "2024-09-03T10:03:44.0808859Z"
+    }
+  ]
+}
