@@ -1,0 +1,15 @@
+{
+  "runID": "64-L02--1-MF3-23081810",
+  "origin": "Churchill SC/Georgina Pl",
+  "destination": "Morwell Bus Interchange/Commercial Rd",
+  "departureTime": "2024-09-12T01:35:00Z",
+  "positions": [
+    {
+      "lat": -38.2395333333333,
+      "lon": 146.401038333333,
+      "bearing": 7,
+      "ts": "2024-09-12T00:40:40.125406Z",
+      "exp": "2024-09-12T00:42:47.148186Z"
+    }
+  ]
+}
