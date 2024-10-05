@@ -1,0 +1,22 @@
+{
+  "runID": "65-L02--1-Sat2-23194360",
+  "origin": "McDonald St/Princes Dr",
+  "destination": "Churchill SC/Georgina Pl",
+  "departureTime": "2024-10-05T00:40:00Z",
+  "positions": [
+    {
+      "lat": -38.238895,
+      "lon": 146.406345,
+      "bearing": 89,
+      "ts": "2024-10-05T00:43:47Z",
+      "exp": "2024-10-05T00:46:00.2649508Z"
+    },
+    {
+      "lat": -38.239357505297,
+      "lon": 146.407893396159,
+      "bearing": 107,
+      "ts": "2024-10-05T00:44:24Z",
+      "exp": "2024-10-05T00:46:30.6735454Z"
+    }
+  ]
+}
