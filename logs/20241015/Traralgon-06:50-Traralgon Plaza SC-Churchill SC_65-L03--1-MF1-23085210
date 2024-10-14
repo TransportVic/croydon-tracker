@@ -1,0 +1,22 @@
+{
+  "runID": "65-L03--1-MF1-23085210",
+  "origin": "Traralgon Plaza SC/Franklin St",
+  "destination": "Churchill SC/Georgina Pl",
+  "departureTime": "2024-10-14T19:50:00Z",
+  "positions": [
+    {
+      "lat": -38.2349716666667,
+      "lon": 146.385543333333,
+      "bearing": 355,
+      "ts": "2024-10-14T19:24:26.856888Z",
+      "exp": "2024-10-14T19:26:33.5652Z"
+    },
+    {
+      "lat": -38.235,
+      "lon": 146.38551,
+      "bearing": 199,
+      "ts": "2024-10-14T19:24:59Z",
+      "exp": "2024-10-14T19:27:11.9233426Z"
+    }
+  ]
+}
