@@ -7656,12 +7656,14 @@
     "671-09:04-Croydon Station-Chirnside Park SC_19-671--1-MF17-30",
     "671-09:54-Chirnside Park SC-Croydon Station_19-671--1-MF17-14",
     "671-10:00-Croydon Station-Chirnside Park SC_21-671--1-MF21-17",
+    "671-10:54-Chirnside Park SC-Croydon Station_19-671--1-MF17-15",
     "672-06:25-Croydon Station-Chirnside Park SC_21-672--1-MF21-1",
     "672-07:25-Croydon Station-Chirnside Park SC_19-672--1-MF17-22",
     "672-07:52-Croydon Station-Chirnside Park SC_19-672--1-MF17-23",
     "672-08:22-Croydon Station-Chirnside Park SC_19-672--1-MF17-24",
     "672-08:52-Croydon Station-Chirnside Park SC_21-672--1-MF21-16",
     "672-09:27-Croydon Station-Chirnside Park SC_19-672--1-MF17-25",
+    "672-10:27-Croydon Station-Chirnside Park SC_19-672--1-MF17-26",
     "Seymour-07:45-Seymour Railway Station-Seymour Railway Station_78-SY3--1-MF7-1663811",
     "Seymour-08:00-Labuan St-Seymour Railway Station_78-SY3--1-MF7-1663812",
     "Seymour-08:27-Seymour Railway Station-Seymour Railway Station_78-SY1--1-MF6-1445410",
@@ -7669,6 +7671,7 @@
     "Seymour-09:00-Seymour Railway Station-Seymour Railway Station_78-SY3--1-MF7-1520161",
     "Seymour-09:30-Seymour Railway Station-Seymour Railway Station_78-SY1--1-MF6-1445110",
     "Seymour-10:00-Seymour Railway Station-Seymour Railway Station_78-SY1--1-MF6-1445310",
+    "Seymour-10:30-Seymour Railway Station-Seymour Railway Station_78-SY1--1-MF6-1442310",
     "Seymour-10:35-Seymour Railway Station-Seymour Railway Station_78-SY3--1-MF7-1520162"
   ]
 }
