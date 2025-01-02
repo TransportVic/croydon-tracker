@@ -7666,6 +7666,7 @@
     "671-14:00-Croydon Station-Chirnside Park SC_19-671--1-MF17-32",
     "671-14:46-Chirnside Park SC-Croydon Station_19-671--1-MF17-18",
     "671-15:00-Croydon Station-Chirnside Park SC_29-671--1-MF1-11",
+    "671-15:44-Chirnside Park SC-Croydon Station_21-671--1-MF21-14",
     "672-06:25-Croydon Station-Chirnside Park SC_21-672--1-MF21-1",
     "672-07:25-Croydon Station-Chirnside Park SC_19-672--1-MF17-22",
     "672-07:52-Croydon Station-Chirnside Park SC_19-672--1-MF17-23",
@@ -7696,7 +7697,10 @@
     "Seymour-14:00-Seymour Railway Station-Seymour Railway Station_78-SY1--1-MF6-1444410",
     "Seymour-14:00-Seymour Railway Station-Seymour Railway Station_78-SY3--1-MF7-1520163",
     "Seymour-14:30-Seymour Railway Station-Seymour Railway Station_78-SY1--1-MF6-1444810",
+    "Seymour-15:00-Seymour Railway Station-Seymour Railway Station_78-SY1--1-MF6-1442610",
     "Seymour-15:28-St Mary's College-Seymour Railway Station_78-SY3--1-MF7-1664210",
-    "Seymour-15:30-Seymour Railway Station-Crete St_78-SY3--1-MF7-1664110"
+    "Seymour-15:30-Seymour Railway Station-Crete St_78-SY3--1-MF7-1664110",
+    "Seymour-15:30-Seymour Railway Station-Seymour Railway Station_78-SY3--1-MF7-1664251",
+    "Seymour-15:47-Crete St-Seymour Railway Station_78-SY3--1-MF7-1663610"
   ]
 }
