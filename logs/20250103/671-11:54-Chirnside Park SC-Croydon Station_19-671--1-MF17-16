@@ -1,0 +1,15 @@
+{
+  "runID": "19-671--1-MF17-16",
+  "origin": "Chirnside Park SC/Maroondah Hwy",
+  "destination": "Croydon Station/Railway Ave",
+  "departureTime": "2025-01-03T00:54:00Z",
+  "positions": [
+    {
+      "lat": -37.7927816666667,
+      "lon": 145.286056666667,
+      "bearing": 227,
+      "ts": "2025-01-03T00:27:07.224886Z",
+      "exp": "2025-01-03T00:29:17.5499655Z"
+    }
+  ]
+}
