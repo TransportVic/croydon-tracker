@@ -1,0 +1,15 @@
+{
+  "runID": "78-SY3--1-MF7-1663812",
+  "origin": "Labuan St/Alamein Rd",
+  "destination": "Seymour Railway Station/Station St",
+  "departureTime": "2025-01-07T21:00:00Z",
+  "positions": [
+    {
+      "lat": -37.0263016666667,
+      "lon": 145.155771666667,
+      "bearing": 107,
+      "ts": "2025-01-07T20:06:08.817546Z",
+      "exp": "2025-01-07T20:08:16.1466068Z"
+    }
+  ]
+}
