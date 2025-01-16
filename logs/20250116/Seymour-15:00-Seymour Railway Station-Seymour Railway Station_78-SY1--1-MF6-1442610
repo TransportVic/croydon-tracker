@@ -1,0 +1,22 @@
+{
+  "runID": "78-SY1--1-MF6-1442610",
+  "origin": "Seymour Railway Station/Station St",
+  "destination": "Seymour Railway Station/Station St",
+  "departureTime": "2025-01-16T04:00:00Z",
+  "positions": [
+    {
+      "lat": -37.0261016666667,
+      "lon": 145.154078333333,
+      "bearing": 281,
+      "ts": "2025-01-16T03:58:32Z",
+      "exp": "2025-01-16T04:00:46.5039226Z"
+    },
+    {
+      "lat": -37.0248283333333,
+      "lon": 145.1475,
+      "bearing": 281,
+      "ts": "2025-01-16T03:59:18Z",
+      "exp": "2025-01-16T04:01:30.595566Z"
+    }
+  ]
+}
